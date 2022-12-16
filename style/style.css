@@ -1,0 +1,11 @@
+div.my-elem-1 div.a > p {
+    background-color: blue;
+}
+
+div.my-elem-2 p {
+    background-color: red;
+}
+
+div.my-elem-3 div.a div.b.e > p, div#u {
+    background-color: yellow;
+}
